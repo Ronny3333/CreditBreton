@@ -1,7 +1,5 @@
 # Identifier les anomalies dans les demandes ou accords en utilisant l’écart-type (valeurs extrêmes)
 
-# Identifier les anomalies dans les demandes ou accords en utilisant l’écart-type (valeurs extrêmes
-
 import pyodbc as odbc
 import pandas as pd
 import matplotlib.pyplot as plt
