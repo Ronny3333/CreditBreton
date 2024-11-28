@@ -12,7 +12,7 @@ Pour remplir cette mission, nous avons mis en tableau de bord qui contient une f
               5-Création du Data FLow et configuration des Sources Excel et des Destionations OLE DB sous MS Visual Studio 2022
               ![image](https://github.com/user-attachments/assets/b6df201c-3520-4a77-885a-66dc3c50875a)
 
- # Phase 2 : Traitement et analyses avancées
+ # Phase 2 : Traitement et analyses avancées (SQL, Python, VS Ccode)
           A - SQL
               1-Taux d'approbation par agence
               ![image](https://github.com/user-attachments/assets/96659477-f72f-4caf-85a0-39b05ab5887c)
@@ -40,7 +40,7 @@ Pour remplir cette mission, nous avons mis en tableau de bord qui contient une f
               2-Répartition des demandes et accords par mois
               ![image](https://github.com/user-attachments/assets/bf7880ec-e677-4c89-aec2-1584cc49e20b)
 
-# Phase 3 : Visualisation et reporting
+# Phase 3 : Visualisation et reporting (Power BI, Power Query, DAX)
               1-Demandes de prêt
               ![image](https://github.com/user-attachments/assets/75a41820-c490-40bf-9ce0-32180cd59673)
           
