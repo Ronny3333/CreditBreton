@@ -12,7 +12,7 @@ Pour remplir cette mission, nous avons mis en tableau de bord qui contient une f
               5-Création du Data FLow et configuration des Sources Excel et des Destionations OLE DB sous MS Visual Studio 2022
               ![image](https://github.com/user-attachments/assets/b6df201c-3520-4a77-885a-66dc3c50875a)
 
- # Phase 2 : Traitement et analyses avancées (SQL, Python, VS Ccode)
+ # Phase 2 : Traitement et analyses avancées (SQL, Python, VS Code)
           A - SQL
               1-Taux d'approbation par agence
               ![image](https://github.com/user-attachments/assets/96659477-f72f-4caf-85a0-39b05ab5887c)
