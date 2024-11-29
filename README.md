@@ -6,7 +6,8 @@ Pour remplir cette mission, nous avons mis en tableau de bord qui contient une f
               1-Installation de SQL Server et Configuration de la connexion
               2-Connexion au Serveur SQL Server
               3-Création de la base de donnée et des différentes tables sous SQL Server Management Studio
-              ![image](https://github.com/user-attachments/assets/53cf2696-cf97-4185-afc5-a045b9cd67d6)
+  
+![img.png](img.png)
               
               4-Création d'un projet de type Intergration Service Projet sous MS Visual Studio 2022
               5-Création du Data FLow et configuration des Sources Excel et des Destionations OLE DB sous MS Visual Studio 2022
