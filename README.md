@@ -6,12 +6,10 @@ Pour remplir cette mission, nous avons mis en tableau de bord qui contient une f
               1-Installation de SQL Server et Configuration de la connexion
               2-Connexion au Serveur SQL Server
               3-Création de la base de donnée et des différentes tables sous SQL Server Management Studio
-  
-![img.png](img.png)
               
               4-Création d'un projet de type Intergration Service Projet sous MS Visual Studio 2022
               5-Création du Data FLow et configuration des Sources Excel et des Destionations OLE DB sous MS Visual Studio 2022
-              ![image](https://github.com/user-attachments/assets/b6df201c-3520-4a77-885a-66dc3c50875a)
+ ![image](https://github.com/user-attachments/assets/b6df201c-3520-4a77-885a-66dc3c50875a)
 
  # Phase 2 : Traitement et analyses avancées (SQL, Python, VS Code)
           A - SQL
