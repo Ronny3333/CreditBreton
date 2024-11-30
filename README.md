@@ -6,6 +6,8 @@ Pour remplir cette mission, nous avons mis en tableau de bord qui contient une f
               1-Installation de SQL Server et Configuration de la connexion
               2-Connexion au Serveur SQL Server
               3-Création de la base de donnée et des différentes tables sous SQL Server Management Studio
+ ![image](https://github.com/user-attachments/assets/3111d441-1acd-45ec-acc2-9b60eed4c833)
+
               4-Création d'un projet de type Intergration Service Projet sous MS Visual Studio 2022
               5-Création du Data FLow et configuration des Sources Excel et des Destionations OLE DB sous MS Visual Studio 2022
  ![image](https://github.com/user-attachments/assets/b6df201c-3520-4a77-885a-66dc3c50875a)
@@ -41,7 +43,9 @@ Pour remplir cette mission, nous avons mis en tableau de bord qui contient une f
 # Phase 3 : Visualisation et reporting (Power BI, Power Query, DAX)
               1-Demandes de prêt
   ![image](https://github.com/user-attachments/assets/75a41820-c490-40bf-9ce0-32180cd59673)
-          
+              
+              2-Performance des agences
+  ![image](https://github.com/user-attachments/assets/b90be40e-c53a-46e3-8de0-4759c3f5c63b)
 
 
               
