@@ -1,6 +1,6 @@
 # Comprehension du besoin métier
-CreditBreton est un réseau d'agences bancaires fictif. Le but de cette mission est pour moi, en tant que Data Analyst, de réduire les délais de décision sur l'accord ou refus d'un prêt immobilier à un particulier. Historiquement, cette décision est prise par les conseillers bancaires d'agence qui se basent sur leur connaissance du client. Et comme il ya tellement de données en prendre en compte, le processus est retardé. 
-Pour remplir cette mission, nous avons mis en tableau de bord qui contient une fonctionnalité qui calcule le score qui permettrait automatiquement de calculer un score à partir des données et ce score donnera une recommandation immédiate aux conseillés sur la décision à prendre.
+CreditBreton est un réseau d'agences bancaires fictif. Le but de cette mission est pour moi, en tant que Data Analyst, de réduire les délais de décision sur l'accord ou refus d'un prêt immobilier à un particulier. Historiquement, cette décision est prise par les conseillers bancaires d'agence qui se basent sur leur connaissance du client. Et comme il y'a tellement de données à prendre en compte, le processus est retardé. 
+Pour remplir cette mission, nous avons mis en place un tableau de bord qui contient une fonctionnalité qui calcule le score emprunteur à partir des données et ce score donnera une recommandation immédiate aux conseillés sur la décision à prendre.
 
 # Phase 1 : Extraction et Transformation des données (SSMS,SSIS,SSDT, SQL Server Profiler)
               1-Installation de SQL Server et Configuration de la connexion
